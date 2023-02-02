@@ -1,0 +1,35 @@
+body, html {
+    background-color: #0081C9;
+}
+#table {
+    width: 86%;
+    height: 605px;
+    background-color: white;
+    margin: 5%;
+    padding: 5px;
+    border-radius: 25px;
+}
+#imga {
+    width: 20%;
+    height: 560px;
+    display: block;
+    margin-top: -688px;
+    margin-left: 120px;
+}
+.ttcn {
+    text-align: left;
+    padding: 10px 500px;
+    margin: 10px 0 10px;
+    position: relative;
+    bottom: 578px;
+    left: 35px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    text-align: center;
+    position: relative;
+    bottom: 580px;
+    left: 200px;
+    font-family: 'Roboto', sans-serif;
+}
